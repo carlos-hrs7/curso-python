@@ -8,4 +8,6 @@ print(idade)
 pi = 3.141592
 print(pi)
 
-type(nome)
+print type(nome)
+print type(idade)
+print type(pi)
